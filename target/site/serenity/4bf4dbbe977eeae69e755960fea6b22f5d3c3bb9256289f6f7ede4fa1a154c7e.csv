@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","Creating a new PRODUCT","SUCCESS","2023-06-04T15:53:45.992Z[UTC]","0.0","28.1"
+"Product CURD test with steps","Verify that product is added or not","SUCCESS","2023-06-04T15:54:14.135Z[UTC]","0.0","1.8"
+"Product CURD test with steps","Updating product information","SUCCESS","2023-06-04T15:54:15.941Z[UTC]","0.0","0.39"
+"Product CURD test with steps","Delete product and verifying that product is deleted","SUCCESS","2023-06-04T15:54:16.330Z[UTC]","0.0","0.27"
